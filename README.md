@@ -1,7 +1,7 @@
 <h1 align="center">Projeto de Desenvolvimento Web - Edi Bolos</h1>
 
 <div align="center">
-  <img src="img/image2.png" alt="Edi Bolos" width="500"/>
+  <img <img src="Edi-bolos-Confeitaria/assets/img/image2.png"> alt="Edi Bolos" width="500"/>
 </div>
 
 <h3>Descrição do Projeto</h3>
